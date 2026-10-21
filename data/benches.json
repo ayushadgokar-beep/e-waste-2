@@ -1,0 +1,1 @@
+[{"id":"repair-1","name":"Repair Bench","types":["repair","reuse"],"hazardous":false},{"id":"recovery-1","name":"Recovery Station","types":["recover"],"hazardous":false},{"id":"safe-1","name":"Hazardous Handling Station","types":["recycle","special_handling"],"hazardous":true}]

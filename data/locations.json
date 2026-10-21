@@ -1,0 +1,1 @@
+{"locations":["North Hub","Central Hub","South Hub","East Depot"],"edges":[["North Hub","Central Hub",4],["Central Hub","South Hub",3],["North Hub","East Depot",5],["East Depot","South Hub",2],["Central Hub","East Depot",2]]}
